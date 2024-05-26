@@ -17,6 +17,7 @@ const Home = () => (
         Temporibus unde similique neque maxime vero atque, rerum culpa non vel
         fugit, quis perferendis, eum quas repellendus voluptatem!
       </p>
+          
     </div>
   </div>
 );
