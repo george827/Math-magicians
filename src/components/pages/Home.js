@@ -5,7 +5,7 @@ const Home = () => (
     <div />
     <div className="home">
       <h2>Welcome to our page!</h2>
-      <p>
+      <p className="quote">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas quis
         harum, quibusdam ab distinctio praesentium voluptatibus alias molestiae
         possimus eveniet nulla repudiandae minima corrupti quo non provident
