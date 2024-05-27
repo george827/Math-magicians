@@ -154,7 +154,6 @@
 .footer {
   position: fixed;
   bottom: 0;
-  /* left: 0; */
   width: 90%;
   border-top: 1px solid #f5913e;
   border-bottom: 1px solid #f5913e;
@@ -165,4 +164,8 @@
   font-size: 1.2rem;
   padding: 10px;
   letter-spacing: 4px;
+}
+
+.My-footer {
+  position: fixed;
 }
